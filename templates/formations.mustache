@@ -1,0 +1,9 @@
+## Diplômes
+{{#diplomes}}
+### {{& programme}}
+{{#specialite.length}}  - Spécialité: {{& specialite}} {{/specialite.length}}
+{{#titreMemoire.length}}  - Titre du mémoire: {{& titreMemoire}} {{/titreMemoire.length}}
+  - organisation: {{& organisation}}
+  - Année de diplomation: {{& anneeFin}}
+
+{{/diplomes}}
