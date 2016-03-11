@@ -1,0 +1,26 @@
+## Publications
+
+
+{{#publicationScience}}
+### {{titre}}
+{{#auteurs.length}}
+  - Auteurs:
+    {{#auteurs}}
+      {{& nom}},
+    {{/auteurs}}
+{{/auteurs.length}}
+  - journal: {{journalLong}}
+  - citation: {{journalAbbrev}} {{vol}}, {{page}} ({{annee}})
+
+{{/publicationScience}}
+
+{{#memoireMaitrise}}
+### {{titre}}
+
+  - université: {{universite}}
+  - directeur: {{directeur}}
+  - annee {{annee}}
+  - ville: {{ville}}
+  - pays: {{pays}}
+
+{{/memoireMaitrise}}
