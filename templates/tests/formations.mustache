@@ -1,11 +1,11 @@
 
 ## Diplômes
 {{#diplome}}
-### {{programme}}
-{{#specialite.length}}  - Spécialité: {{specialite}} {{/specialite.length}}
-{{#titreMemoire.length}}  - Spécialité: {{titreMemoire}} {{/titreMemoire.length}}
-  - organisation: {{organisation}}
-  - Année de diplomation: {{anneFin}}
+### {{& programme}}
+{{#specialite.length}}  - Spécialité: {{& specialite}} {{/specialite.length}}
+{{#titreMemoire.length}}  - Spécialité: {{& titreMemoire}} {{/titreMemoire.length}}
+  - organisation: {{& organisation}}
+  - Année de diplomation: {{& anneFin}}
 
 
 {{/diplome}}
