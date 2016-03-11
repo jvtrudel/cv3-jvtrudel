@@ -2,11 +2,11 @@ encours: [
    {grade: "Doctorat",
    organisation: "Université Laval",
     programme: "Doctorat en chimie",
-    titre: "Dynamique moléculaire et Interaction laser-matière ",
+    titre: "Dynamique moléculaire et Interaction laser-matière",
     departement: "Département de chimie",
     directeur: "Thanh-Tung Nguyen-Dang",
     ville: Québec,
-    pays: Canada
+    pays: Canada,
     debut: "hiver 2012"
     },
    {grade: "Doctorat",

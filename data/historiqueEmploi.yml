@@ -1,3 +1,9 @@
+web: [
+{poste: "Dévellopeur web",
+organisation: "Exportech Québec" }
+
+]
+
 chimie: [
 {poste: Stagiaire,
 periode: 2008,
