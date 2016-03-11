@@ -1,0 +1,33 @@
+gestion: [
+{
+titre: "Président du conseil d’administration",
+debut:	2008,
+fin: 2009,
+periode: 2009,
+organisation: "Coopérative d’habitation Vivre en Ville",
+ville: "Québec",
+},{
+titre: "V-P aux communications",
+organisation: "Regroupement des Étudians en chimie de l’université Laval",
+ville: Québec,
+debut: 2006,
+fin: 2007,
+periode: 2007
+},{
+titre: "Rédacteur en chef",
+periode: 2001,
+organisation: "journal étudiant du Cégep de Matane",
+ville: Matane,
+},{
+titre: "Représentant étudiant au conseil d’administration",
+debut:	2001,
+organisation: "Cégep de Matane",
+ville: Matane,
+periode: 2001
+},{
+titre: "V-P aux affaires externes",
+periode:	2000,
+organisation: "Association étudiante du Cégep de Maisonneuve",
+ville: Montréal,
+}
+]
