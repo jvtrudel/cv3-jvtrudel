@@ -27,14 +27,18 @@
 
 ## Projets entrepreneuriaux
 
+
 ### Framboise & Marguerite
   - En gestation depuis: 
   - Description: Mise sur pied d’un projet pédagogique en science informatique au primaire. Recherche et expérimentation des programmes existants dans ce domaine. Sélection d’activités et animation d’ateliers. Prise de contact et implantation du projet pilote à l’École Marguerite-Bourgeois. Développement de contenu pédagogique original.
   - Ville: Québec
+  
+
 ### Datalyse
   - En gestation depuis: 
   - Description: Entreprise en démarrage. Valorisation des données d’entreprise et des données Web pour catalyser les activités d’intelligence d’affaire. Utilisation du Web sémantique et des méthodes de systèmes experts pour la gestion intégrée des besoins informationnels. Transfert de connaissances spécialisées et mise en relation de groupes via les technologies Web, le Web Responsive et des approches ludiques.
   - Ville: Québec
+  
 ## Étude en cours
 
 
