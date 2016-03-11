@@ -1,18 +1,22 @@
-# lancer le calcul dans repertoire tests
+# lancer le calcul dans repertoire root
 
-units=('jvtrudel' 'profil' 'formations' 'entreprenariat' 'formationEnCours' 'conferences' 'publications' 'historiqueEmploi' 'experienceFormation' 'experienceAnimation' 'experienceGestion')
-data="../data"
-templates="../templates/tests"
-output="unitsResults"
+units=('jvtrudel')
 
+#'profil' 'formations' 'entreprenariat' 'formationEnCours' 'conferences' 'publications' 'historiqueEmploi' 'experienceFormation' 'experienceAnimation' 'experienceGestion')
+data="data"
+templates="templates"
+output="public"
+work='tests/work'
+
+# Compilation des composantes
 tmp=tmp.md
 echo "" > $tmp
 for unit in ${units[@]}; do
-  mustache $data/$unit.yml $templates/$unit.mustache > $unit.md
-  cat $unit.md >> $tmp
-  cp $unit.md $output/$unit.md
-  pandoc -s $output/$unit.md -o $output/$unit.html
+  mustache $data/$unit.yml $templates/$unit.mustache > $work/$unit.md
+  cat $work/$unit.md >> $work/$tmp
+#  cp $unit.md $output/$unit.md
+#  pandoc -s $output/$unit.md -o $output/$unit.html
 done
 
-pandoc -s $tmp -o $output/all.html
-mv $tmp $output/all.md
+# Assemblage final
+pandoc -s $work/$tmp -o $output/index.html
