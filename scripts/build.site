@@ -21,3 +21,4 @@ pandoc -s $tmp -o $output/index.html
 git add *
 git commit -m "xProg"
 git push
+ssh root@jvtrudel.com "cd /var/www/cv30-jvtrudel; git pull"
