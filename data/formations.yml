@@ -15,9 +15,9 @@ diplomes: [
   anneeFin: "2009"
   },
  {institution: "Cégep Limoilou",
-  programme: "Diplome d'étude collégial en sciences de la nature"
-  début: "automne 2004"
-  fin: "hiver 2005"
+  programme: "Diplome d'étude collégial en sciences de la nature",
+  début: "automne 2004",
+  fin: "hiver 2005",
   anneeFin: 2005
   }
 ]
