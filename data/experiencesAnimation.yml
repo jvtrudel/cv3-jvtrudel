@@ -1,4 +1,4 @@
-[
+experiencesAnimation: [
 {
 titre: "Coordonateur projet robotique First Lego League",
 période:	"depuis octobre 2015",
@@ -22,7 +22,7 @@ titre: "Assistant d’enseignement, cours de thermodynamique",
 periodes: ["automne 2010", "automne 2011"],
 organisation: "université Laval",
 ville: Québec
-}
+},
 
 {titre: "Assistant d’enseignement, ateliers de chimie computationnelle",
 période: 	"automne 2009 à 2014",
