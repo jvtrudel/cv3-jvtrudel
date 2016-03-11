@@ -17,7 +17,6 @@ done
 
 # Assemblage final
 pandoc -s $tmp -o $output/index.html
-rm $tmp
 
 git add *
 git commit -m "xProg"
