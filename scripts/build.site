@@ -1,8 +1,6 @@
 # lancer le calcul dans repertoire root
 
-units=('jvtrudel' 'profil')
-
-# 'formations' 'entreprenariat' 'formationEnCours' 'conferences' 'publications' 'historiqueEmploi' 'experienceFormation' 'experienceAnimation' 'experienceGestion')
+units=('jvtrudel' 'profil' 'formations' 'entreprenariat' 'formationEnCours' 'conferences' 'publications' 'historiqueEmploi' 'experienceFormation' 'experienceAnimation' 'experienceGestion')
 data="data"
 templates="templates"
 output="public"
@@ -12,6 +10,7 @@ work='tests/work'
 tmp=$output/tmp.md
 echo "" > $tmp
 for unit in ${units[@]}; do
+  echo $unit
   mustache $data/$unit.yml $templates/$unit.mustache > $work/$unit.md
   cat $work/$unit.md >> $tmp
 done
@@ -19,3 +18,7 @@ done
 # Assemblage final
 pandoc -s $tmp -o $output/index.html
 rm $tmp
+
+git add *
+git commit -m "xProg"
+git push

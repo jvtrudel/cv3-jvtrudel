@@ -1,0 +1,24 @@
+autresFormations:[
+{
+titre: "S'exprimer avec aisance face à un public grâce au théâtre NIVEAU 2",
+intervenant: "Enseignants et Acteurs Association En Act' Jussieu",
+debut: "21 avril 2015",
+fin: "24 avril 2015",
+lieu: "Université Paris-Sud"
+},
+{titre: "optimiser la recherche d'informations sur internet",
+formateur: "Sandrine Don",
+typeDeFormaiton: "UNPIdF",
+Institution: "Université Paris Ile-de-France",
+date: "3 avril 2016"
+},
+{titre: "Bases de données et web dynamique",
+formateur: "Françoise Tort",
+institution: "ENS Cachan"
+
+},
+{titre: "Vulgarisation scientifique : comment transmettre et partager des savoirs et des informations ?",
+responsable: "Karine DEMUTH-LABOUZE",
+Institution: "Espace éthique/AP-HP/Île-de-France",
+url: "http://www.espace-ethique.org/actualites/journ%C3%A9e-vulgarisation-scientifique-comment-transmettre-et-partager-des-savoirs-et-des"}
+]
