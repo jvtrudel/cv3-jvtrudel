@@ -1,6 +1,6 @@
 # lancer le calcul dans repertoire root
 
-units=('jvtrudel' 'profil' 'formations' 'entreprenariat' 'formationsEnCours' 'conferences' 'publications' 'historiqueEmploi' 'experienceFormation' 'experienceAnimation' 'experienceGestion')
+units=('jvtrudel' 'profil' 'formations' 'entreprenariat' 'formationsEnCours' 'conferences' 'publications' 'historiqueEmploi' 'experiencesFormation' 'experiencesAnimation' 'experiencesGestion')
 data="data"
 templates="templates"
 output="public"
