@@ -35,7 +35,7 @@
   
 
 ### Datalyse
-  - En gestation depuis: depuis mars 2015
+  - En gestation depuis: mars 2015
   - Description: Entreprise en démarrage. Valorisation des données d’entreprise et des données Web pour catalyser les activités d’intelligence d’affaire. Utilisation du Web sémantique et des méthodes de systèmes experts pour la gestion intégrée des besoins informationnels. Transfert de connaissances spécialisées et mise en relation de groupes via les technologies Web, le Web Responsive et des approches ludiques.
   - Ville: Québec
   
@@ -76,7 +76,6 @@
   - organisation: Université Téluq
   - ville: Québec
   - pays: Canada
-
 
 
 
