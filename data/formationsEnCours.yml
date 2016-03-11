@@ -12,15 +12,15 @@ encours: [
    {grade: "Doctorat",
    organisation: "Université Paris-Sud",
     laboratoire: "Institut des science molculaires d'Orsay",
-     équipe: "Rayonnement, Atomes, Molécules (DIRAM)" },
+     équipe: "Rayonnement, Atomes, Molécules (DIRAM)" ,
      directeur: "Osman Atabek",
      ville: "Orsay",
-      pays: "France"
-      debut: "automne 2012"}
+      pays: "France",
+      debut: "automne 2012"},
    {grade: baccalauréat,
    organisation: "Université Téluq",
     programme: "Certificat en informatique appliquée",
-    debut: "hiver 2015"
+    debut: "hiver 2015",
     ville: Québec,
     pays: Canada}
 ]
