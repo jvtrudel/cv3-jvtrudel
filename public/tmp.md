@@ -10,6 +10,7 @@
 
 ## Étude en cours
 
+
 ### Doctorat, Doctorat en chimie
   - spécialité: Dynamique moléculaire et Interaction laser-matière 
 
@@ -20,6 +21,8 @@
   - organisation: Université Laval
   - ville: Québec
   - pays: Canada
+  
+
 ### Doctorat, 
 
   - laboratoire: Institut des science molculaires d'Orsay 
@@ -30,6 +33,8 @@
   - organisation: Université Paris-Sud
   - ville: Orsay
   - pays: France
+  
+
 ### baccalauréat, Certificat en informatique appliquée
 
 
@@ -40,6 +45,7 @@
   - organisation: Université Téluq
   - ville: Québec
   - pays: Canada
+  
 
 
 
