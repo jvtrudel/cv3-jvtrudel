@@ -1,23 +1,11 @@
-## Étude en cours
-
-{{#encours}}
-### {{grade}}, {{programme}}
-{{#titre.length}}  - spécialité: {{titre}} {{/titre.length}}
-{{#laboratoire.length}}  - laboratoire: {{laboratoire}} {{/laboratoire.length}}
-{{#departement.length}}  - département: {{departement}} {{/departement.length}}
-{{#equipe.length}}  - équipe: {{equipe}} {{/equipe.length}}
-{{#directeur.length}}  - directeur: {{directeur}} {{/directeur.length}}
-  - début: {{debut}}
-  - organisation: {{organisation}}
-  - ville: {{ville}}
-  - pays: {{pays}}
-{{/chimie}}
 
 ## Diplômes
 {{#diplome}}
-  - poste: {{poste}}
-  - periode: {{periode}}
-  - organisation: {{ville}}
-  - equipe: {{equipe}}
+### {{programme}}
+{{#specialite.length}}  - Spécialité: {{specialite}} {{/specialite.length}}
+{{#titreMemoire.length}}  - Spécialité: {{titreMemoire}} {{/titreMemoire.length}}
+  - organisation: {{organisation}}
+  - Année de diplomation: {{anneFin}}
 
-{{/jobines}}
+
+{{/diplome}}
