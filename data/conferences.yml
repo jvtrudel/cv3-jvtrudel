@@ -1,0 +1,122 @@
+conference: [
+{
+titre: "CV 3.0: Améliorer l’employabilité grâce aux données ouvertes",
+type: "présentation orale",
+date: "février 2016",
+evenement: "Journée Internationale des Données ouvertes",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Spectral and dynamical effects on the vibrational distribution of H2+ after molecular ionization by a single XUV-attosecond pulse",
+date: 2015,
+type: "affiche",
+evenement: "International Conference on Attosecond Physics",
+ville: St-Sauveur,
+pays: Canada
+},
+{
+titre: "Spectral and dynamical effects on the vibrational distribution of H2+ after molecular ionization by a single XUV-attosecond pulse",
+type: "affiche",
+date: 2015,
+evenement: "Ultrafast Dynamic Imaging of Matter",
+ville: Grindelwald,
+pays: Suisse
+},
+{
+titre: "Spectral and dynamical effects on the vibrational distribution of H2+ after molecular ionization by a single XUV-attosecond pulse",
+date: 2014,
+type: "affiche",
+evenement: "Canadian Symposium on Theoretical and Computational Chemistry",
+ville: Montréal,
+pays: Canada
+},
+{
+titre: "Spectral and dynamical effects on the vibrational distribution of H2+	after molecular ionization by a single XUV-attosecond pulse",
+date: 2014,
+type: affiche,
+evenement: "Gordon Research Conference",
+ville: Massachusets,
+pays: États-Unis
+},
+{
+titre: "Dynamique multiélectronique en champ intense: Application à la spectroscopie pompe-sonde et à la tomographie orbitalaire",
+type: "orale",
+date: 2014,
+evenement: "Séminaire de doctorat du département de chimie de l’Université Laval",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Dynamique multiélectronique en champ intense: Application à la spectroscopie pompe-sonde et à la tomographie orbitalaire",
+type: orale,
+date:	2014,
+evenement: "Journées Scientifiques de l'ÉDOM, Institut d'Optique Graduate School",
+ville: Palaisseau,
+pays: France
+},
+{
+titre: "Molecular Ionization by an Intense Attosecond XUV Pulse: Is a Franck-Condon Approximation Acceptable?",
+date: "2013",
+type: "affiche",
+evenement: "Symposium on Chemical Physics",
+ville: Waterloo,
+pays: Canada
+},
+{
+titre: "Molecular Ionization by an Intense Attosecond XUV Pulse: Is a Franck-Condon Approximation Acceptable?",
+type: "affiche",
+date: 2013,
+evenement: "Canadian Chemistry Conference and Exhibition of the Canadian Society for Chemistry",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Molecular Ionization by an Intense Attosecond XUV Pulse: Is a Franck-Condon Approximation Acceptable?",
+type: "orale et affiche",
+date: 2012,
+evenement: "Gordon Research Conference et Gordon Research Seminar",
+ville: Massachusets,
+pays: États-Unis
+},
+{
+titre: "Feshbach-Adams Partitions for Multi-electron dynamics in Intense Laser Field",
+type: affiche,
+date: 2012,
+evenement: "PhD Summer School of the ITN-CORINF",
+ville: Dresden,
+pays: Allemage
+},
+{
+titre: "Molecular Ionization by an Intense Attosecond XUV Pulse: Is a Franck-Condon Approximation Acceptable?",
+date: 2010,
+type: affiche,
+evenement: "International Symposium on Chirped Pulse Amplification",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Quantum Dynamics of Many-Electron Systems in Intense Laser Fields: A Multi-Scale Approach",
+type: "orale",
+date: 2010,
+evenement: "Symposium on Chemical Physics",
+ville: Waterloo,
+pays: Canada
+},
+{
+titre: "Dynamique quantique des électrons en champ intense",
+date: 2010,
+type: "orale",
+evenement: "Séminaire de maîtrise du département de chimie de l’Université Laval",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Electronic and Nuclear Wavepacket Simulations of Dissociative Ionizations of H2 under Two-colours XUV-IR Pulsed Excitations",
+date: 2009,
+type: affiche,
+evenement: "Quantum Dynamic Imaging - Workshop",
+ville: Montréal,
+pays: Canada
+}
+]

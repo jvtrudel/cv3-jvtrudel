@@ -1,0 +1,29 @@
+publicationScience: [
+{auteurs: [{nom: "Thanh-Tung Nguyen-Dang"}, {nom: "Étienne Couture-Bienvenue"}, {nom: "Jérémy Viau Trudel"}, {nom: "Amaury Sainjon"}],
+titre:  "Time-dependent quantum chemistry of laser driven many-electron molecules",
+journalAbbrev: JCP,
+journalLong: "The Journal of Chemical Physics",
+vol: 141,
+page: 244116,
+annee: 2014
+},{
+auteurs: [{nom: "Thanh-Tung Nguyen-Dang"}, {nom: "Jérémy Viau Trudel"}],
+titre:  "Multicomponent dynamics of coupled quantum subspaces and field induced molecular ionization",
+journalAbbrev: JCP,
+journalLong: "The Journal of Chemical Physics",
+  vol: 139,
+  page: 244102,
+  annee: 2013
+}]
+
+memoireMaitrise: {
+  titre: "Dynamique multi-électronique de H2 en champ laser
+intense et attoseconde",
+  auteur: "Jérémy Viau-Trudel",
+  universite: "Université Laval",
+  ville: Québec,
+  pays: Canada,
+  annee: 2012,
+  directeur: "Thanh-Tung Nguyen-Dang",
+  url: "www.theses.ulaval.ca/2012/28960/28960.pdf"
+  }

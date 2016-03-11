@@ -1,0 +1,15 @@
+{
+   "type":"object",
+   "description":"Description d'une personne",
+   "properties":{
+      "prenom":{"type":"string"},
+      "nomDeFamille":{"type":"string"},
+      "telephone":{"type":"string","pattern":"^([0-9\\(\\)\/\\+ \\-]*)$"},
+      "adresse":{"type":"string"},
+      "codePostal":{"type":"string"},
+      "courriel":{"format":"email"},
+      "ville":{"type":"string"},
+      "province":{"type":"string"}
+   },
+   "required":["prenom","nomDeFamille","telephone","adresse","codePostal","courriel"]
+}

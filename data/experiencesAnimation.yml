@@ -1,0 +1,33 @@
+[
+{
+titre: "Coordonateur projet robotique First Lego League",
+période:	"depuis octobre 2015",
+organisations: ["Fusion Jeunesse, école secondaire Roger-Comtois"],
+ville: Québec
+},
+{
+  titre: "animateur ateliers d'initiation à la science informatique",
+  organisations: ["Framboise & Marguerite", "École primaire Marguerite-Bourgeois"],
+  période: "automne 2015",
+  ville: Québec
+  },
+{
+titre: "Papa accompagnateur",
+periode: "depuis automne 2014",
+organisation: "Troupe-École V’là l’Bon Vent",
+ville: Québec
+},
+{
+titre: "Assistant d’enseignement, cours de thermodynamique",
+periodes: ["automne 2010", "automne 2011"],
+organisation: "université Laval",
+ville: Québec
+}
+
+{titre: "Assistant d’enseignement, ateliers de chimie computationnelle",
+période: 	"automne 2009 à 2014",
+organisation: "Université Laval",
+ville: Québec
+}
+
+]

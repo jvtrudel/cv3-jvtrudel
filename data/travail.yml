@@ -1,0 +1,26 @@
+chimie: [
+{poste: Stagiaire,
+periode: 2008,
+organisation: "Université Laval",
+ville: Québec,
+equipe: "groupe de chimie théorique du prof Thanh-Tung Nguyen-Dang"
+},{
+poste: "Technicien de laboratoire",
+periode: 2007,
+organisation: "Anapharm, ivision Analytique",
+ville: Québec
+},{
+poste: "Auxiliaire de recherche",
+periode: "2005-2007",
+organisation: "Université Laval",
+ville: Québec,
+equipe: "laboratoire de radioécologie du prof Claude Barbeau",
+}]
+
+jobines: [
+{
+poste: "Préposé au service",
+periode: 2004,
+organisation: "Pneu Ratté",
+ville: Québec
+}]
