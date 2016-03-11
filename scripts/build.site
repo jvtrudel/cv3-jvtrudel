@@ -9,14 +9,13 @@ output="public"
 work='tests/work'
 
 # Compilation des composantes
-tmp=tmp.md
+tmp=$output/tmp.md
 echo "" > $tmp
 for unit in ${units[@]}; do
   mustache $data/$unit.yml $templates/$unit.mustache > $work/$unit.md
-  cat $work/$unit.md >> $work/$tmp
-#  cp $unit.md $output/$unit.md
-#  pandoc -s $output/$unit.md -o $output/$unit.html
+  cat $work/$unit.md >> $tmp
 done
 
 # Assemblage final
-pandoc -s $work/$tmp -o $output/index.html
+pandoc -s $tmp -o $output/index.html
+rm $tmp
