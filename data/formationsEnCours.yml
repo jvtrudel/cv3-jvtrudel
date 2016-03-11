@@ -10,6 +10,7 @@ encours: [
     debut: "hiver 2012"
     },
    {grade: "Doctorat",
+   programme: "Doctorat en physique",
    organisation: "Université Paris-Sud",
     laboratoire: "Institut des science molculaires d'Orsay",
      équipe: "Rayonnement, Atomes, Molécules (DIRAM)" ,

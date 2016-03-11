@@ -23,7 +23,7 @@
   - pays: Canada
 
 
-### 
+### Doctorat en physique
 
   - laboratoire: Institut des science molculaires d'Orsay 
 
