@@ -1,32 +1,48 @@
-web: [
-{poste: "Dévellopeur web",
-organisation: "Exportech Québec" }
+---
+web:
+  -
+    organisation: "Exportech Québec"
+    descriptionCourte: "Entreprise d'entrainement et d'employabilité"
+    debut: "février 2015"
+    posteGenerique: "stagiaire"
+    poste: "développeur web et conseiller TI openSource"
+    ville: Québec
+    debut: "février 2016"
+    encours: true
+  -
+    organisation: "3C Web"
+    descriptionCourte: "Conseil, création et conception web"
+    posteGererique: "partenaire d'affaire"
+    poste: "Développeur web et conseiller TI"
+    debut: "février 2016"
+    encours: true
 
-]
 
-chimie: [
-{poste: Stagiaire,
-periode: 2008,
-organisation: "Université Laval",
-ville: Québec,
-equipe: "groupe de chimie théorique du prof Thanh-Tung Nguyen-Dang"
-},{
-poste: "Technicien de laboratoire",
-periode: 2007,
-organisation: "Anapharm, ivision Analytique",
-ville: Québec
-},{
-poste: "Auxiliaire de recherche",
-periode: "2005-2007",
-organisation: "Université Laval",
-ville: Québec,
-equipe: "laboratoire de radioécologie du prof Claude Barbeau",
-}]
-
-jobines: [
-{
-poste: "Préposé au service",
-periode: 2004,
-organisation: "Pneu Ratté",
-ville: Québec
-}]
+chimie:
+  -
+    equipe: "groupe de chimie théorique du prof Thanh-Tung Nguyen-Dang"
+    organisation: "Université Laval"
+    debut: "mai 2008"
+    fin: "septembre 2008"
+    periode: 2008
+    poste: "Stagiaire "
+    ville: Québec
+    encours: false
+  -
+    organisation: "Anapharm, ivision Analytique"
+    periode: 2007
+    poste: "Technicien de laboratoire"
+    ville: Québec
+  -
+    equipe: "laboratoire de radioécologie du prof Claude Barbeau"
+    organisation: "Université Laval"
+    periode: 2005-2007
+    poste: "Auxiliaire de recherche"
+    ville: Québec
+afficheJobines: non
+jobines:
+  -
+    organisation: "Pneu Ratté"
+    periode: 2004
+    poste: "Préposé au service"
+    ville: Québec
