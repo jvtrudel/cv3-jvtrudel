@@ -1,1 +1,3 @@
 tests/work/*.md
+.DS_Store
+public

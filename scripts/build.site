@@ -1,13 +1,19 @@
 # lancer le calcul dans repertoire root
 
-units=('jvtrudel' 'profil' 'formations' 'entreprenariat' 'formationsEnCours' 'conferences' 'publications' 'historiqueEmploi' 'experiencesFormation' 'experiencesAnimation' 'experiencesGestion')
+pseudo="jvtrudel"
+
+units=($pseudo 'profil' 'formations' 'entreprenariat' 'formationsEnCours' 'conferences' 'publications' 'historiqueEmploi' 'experiencesFormation' 'experiencesAnimation' 'experiencesGestion')
 data="data"
 templates="templates"
 output="public"
 work='tests/work'
 
 # Compilation des composantes
-tmp=$output/tmp.md
+tmp=$output/$pseudo.md
+
+rm -r $output
+mkdir $output
+
 echo "" > $tmp
 for unit in ${units[@]}; do
   echo $unit

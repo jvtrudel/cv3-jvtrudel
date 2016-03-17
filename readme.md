@@ -1,4 +1,4 @@
-# version beta/test du [cv3.0 de exportech présenté à la qc.jido2016](https://github.com/Exportech/jido)
+# version beta/test du [cv3.0 présenté à la qc.jido2016](https://github.com/Exportech/jido)
 
 # Licences
 

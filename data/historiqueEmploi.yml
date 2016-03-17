@@ -7,8 +7,11 @@ web:
     posteGenerique: "stagiaire"
     poste: "développeur web et conseiller TI openSource"
     ville: Québec
-    debut: "février 2016"
-    encours: true
+    periode: "février/mars 2016"
+    debut: "1 février 2016"
+    fin: "15 mars 2016"
+    durée: "1 mois et demi"
+    encours: false
   -
     organisation: "3C Web"
     descriptionCourte: "Conseil, création et conception web"
@@ -16,8 +19,6 @@ web:
     poste: "Développeur web et conseiller TI"
     debut: "février 2016"
     encours: true
-
-
 chimie:
   -
     equipe: "groupe de chimie théorique du prof Thanh-Tung Nguyen-Dang"
