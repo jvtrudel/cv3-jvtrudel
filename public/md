@@ -8,14 +8,14 @@
 
 Ce cv 3.0 contient les informations nécessaires pour me contacter ainsi qu'une liste d'informations que l'on retrouve typiquement dans un cv.
 
-Il s'agit d'un prototype de données libres accessibles via un API. Pour l'instant les informaitons sont accessibles aux formats structuré yml ou semi-structuré markdown via les url suivantes:
+Il s'agit d'un prototype de données libres accessibles via une API. Pour l'instant les informations sont accessibles aux formats structuré yml ou semi-structuré markdown (avec un bug dans l'encodage...) via les url suivantes:
 
 ```
 cv30.jvtrudel.com/yml
 cv30.jvtrudel.com/md
 ```
 
-La structure des données est plutôt bancale pour l'instant puisque je cherche à construire une ontologie et que j'utilise mes donneés pour faire des explorations ontologique. Plusieurs autres fonctionnalités seront développés.
+La structure des données est plutôt bancale pour l'instant puisque je cherche à construire une ontologie et que j'utilise mes données pour faire des explorations ontologiques. Plusieurs autres fonctionnalités seront développés ultérieurement.
 
 Pour plus de détails sur le code source et sur la direction du projet: [cv30-jvtrudel](http://github.com/jvtrudel/cv30-jvtrudel)
 
