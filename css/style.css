@@ -25,7 +25,7 @@ a {
 
 
 /* Smartphones (portrait and landscape) ----------- */
-@media only screen and (min-width : 320px) and (max-width : 480px) {
+@media only screen and (max-width : 480px) {
 html {
   max-width: 95vh;
   min-width: 95vh;
@@ -34,7 +34,7 @@ html {
 
 
 /* iPads (portrait and landscape) ----------- */
-@media only screen and (min-width : 768px) and (max-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1024px) {
 html {
    min-width: 80vh;
    max-width: 80vh;
@@ -42,7 +42,7 @@ html {
 }
 
 /* Desktops and laptops ----------- */
-@media only screen  and (min-width : 1224px) {
+@media only screen  and (min-width : 1025px) {
 html {
    min-width: 800px;
    max-width: 800px;
