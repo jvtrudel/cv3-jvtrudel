@@ -10,15 +10,18 @@ work='tests/work'
 
 # Compilation des composantes
 tmp=$output/$pseudo.md
-
+tmp2=$output/$pseudo.yml
 rm -r $output
 mkdir $output
 
 echo "" > $tmp
+echo "" > $tmp2
+
 for unit in ${units[@]}; do
   echo $unit
   mustache $data/$unit.yml $templates/$unit.mustache > $work/$unit.md
   cat $work/$unit.md >> $tmp
+  cat $work/$unit.yml>> $tmp2
 done
 
 # Assemblage final
