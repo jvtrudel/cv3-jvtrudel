@@ -3,15 +3,26 @@ html {
   margin: auto;
   text-align: justify;
   font-size: 3vh;
+  color: black;
 }
 
 h1 {
-  font-size: 5vh;
+  font-size: 8vh;
 }
 
 h2 {
-  font-size: 1vh;
+  font-size: 6vh;
 }
+
+h3 {
+  font-size: 5vh;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
