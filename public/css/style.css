@@ -2,4 +2,5 @@ html {
   max-width: 50%;
   min-width: 50%;
   margin: auto;
+  text-align: justify;
 }
