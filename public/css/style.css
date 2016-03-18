@@ -8,8 +8,8 @@ html {
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 html {
-  max-width: 80%;
-  min-width: 80%;
+  max-width: 95%;
+  min-width: 95%;
    }
 }
 
@@ -25,8 +25,8 @@ html {
 /* Desktops and laptops ----------- */
 @media only screen  and (min-width : 1224px) {
 html {
-   min-width: 800px;
-   max-width: 800px;
+   min-width: 50px;
+   max-width: 50px;
  }
 }
 
