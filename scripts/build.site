@@ -9,8 +9,8 @@ output="public"
 work='tests/work'
 
 # Compilation des composantes
-tmp=$output/$pseudo.md
-tmp2=$output/$pseudo.yml
+tmp=$output/md
+tmp2=$output/yml
 rm -r $output
 mkdir $output
 
