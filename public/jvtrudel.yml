@@ -1,1 +1,379 @@
 
+prenom: Jérémy
+nomDeFamille: "Viau-Trudel"
+telephone: "418-998-9850"
+adresse: "618 rue Père-Grenier"
+codePostal: "G1N 1V2"
+ville: Québec
+province: Québec
+courriel: jvtrudel@gmx.com
+---
+  description:
+    contenu: "Ce cv 3.0 contient les informations nécessaires pour me contacter ainsi qu'une liste d'informations que l'on retrouve typiquement dans un cv."
+    prototypeAPI: "Il s'agit d'un prototype de données libres accessibles via un API. Pour l'instant les informaitons sont accessibles aux formats structuré yml ou semi-structuré markdown via les url suivantes:"
+    url_yml: "http://cv30.jvtrudel.com/jvtrudel.yml"
+    url_md: "http://cv30.jvtrudel.com/jvtrudel.md"
+    avancement: "La structure des données est plutôt bancale pour l'instant puisque je cherche à construire une ontologie et que j'utilise mes donneés pour faire des explorations ontologique. Plusieurs autres fonctionnalités seront développés."
+    ressources: "Pour plus de détails sur le code source et sur la direction du projet: [cv30-jvtrudel](http://github.com/jvtrudel/cv30-jvtrudel)"
+
+diplomes: [
+ {organisation: "Université Laval",
+  programme: "Maitrise en chimie",
+  specialite: "Dynamique moléculaire, interraction laser intense et matière, dévellopement de programmes de modélisation et de dynamique quantique",
+  titreMemoire: "Dynamique multi-électronique de H2 en champ laser intense et attoseconde",
+  début: "été 2009",
+  fin: "hiver 2012",
+  anneeFin: "2012"
+  },
+ {organisation: "Université Laval",
+  programme: "Baccalauréat en chimie",
+  début: "automne 2005",
+  fin: "hiver 2009",
+  anneeFin: "2009"
+  },
+ {organisation: "Cégep Limoilou",
+  programme: "Diplome d'étude collégial en sciences de la nature",
+  début: "automne 2004",
+  fin: "hiver 2005",
+  anneeFin: 2005
+  }
+]
+entreprenariat: [
+{
+projet: "Framboise & Marguerite",
+ville: Québec,
+debut: "mai 2015",
+description: "Mise sur pied d’un projet pédagogique en science informatique au primaire. Recherche et expérimentation des programmes existants dans ce domaine. Sélection d’activités et animation d’ateliers. Prise de contact et implantation du projet pilote à l’École Marguerite-Bourgeois. Développement de contenu pédagogique original."
+},{
+projet: Datalyse,
+ville: Québec,
+debut: "mars 2015",
+description: "Entreprise en démarrage. Valorisation des données d’entreprise et des données Web pour catalyser les activités d’intelligence d’affaire. Utilisation du Web sémantique et des méthodes de systèmes experts pour la gestion intégrée des besoins informationnels. Transfert de connaissances spécialisées et mise en relation de groupes via les technologies Web, le Web Responsive et des approches ludiques."
+}
+]
+encours: [
+   {grade: "Doctorat",
+   organisation: "Université Laval",
+    programme: "Doctorat en chimie",
+    titre: "Dynamique moléculaire et Interaction laser-matière",
+    departement: "Département de chimie",
+    directeur: "Thanh-Tung Nguyen-Dang",
+    ville: Québec,
+    pays: Canada,
+    debut: "hiver 2012"
+    },
+   {grade: "Doctorat",
+   programme: "Doctorat en physique",
+   organisation: "Université Paris-Sud",
+    laboratoire: "Institut des science molculaires d'Orsay",
+     équipe: "Rayonnement, Atomes, Molécules (DIRAM)" ,
+     directeur: "Osman Atabek",
+     ville: "Orsay",
+      pays: "France",
+      debut: "automne 2012"},
+   {grade: baccalauréat,
+   organisation: "Université Téluq",
+    programme: "Certificat en informatique appliquée",
+    debut: "hiver 2015",
+    ville: Québec,
+    pays: Canada}
+]
+conference: [
+{
+titre: "CV 3.0: Améliorer l’employabilité grâce aux données ouvertes",
+type: "présentation orale",
+date: "février 2016",
+evenement: "Journée Internationale des Données ouvertes",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Spectral and dynamical effects on the vibrational distribution of H2+ after molecular ionization by a single XUV-attosecond pulse",
+date: 2015,
+type: "affiche",
+evenement: "International Conference on Attosecond Physics",
+ville: St-Sauveur,
+pays: Canada
+},
+{
+titre: "Spectral and dynamical effects on the vibrational distribution of H2+ after molecular ionization by a single XUV-attosecond pulse",
+type: "affiche",
+date: 2015,
+evenement: "Ultrafast Dynamic Imaging of Matter",
+ville: Grindelwald,
+pays: Suisse
+},
+{
+titre: "Spectral and dynamical effects on the vibrational distribution of H2+ after molecular ionization by a single XUV-attosecond pulse",
+date: 2014,
+type: "affiche",
+evenement: "Canadian Symposium on Theoretical and Computational Chemistry",
+ville: Montréal,
+pays: Canada
+},
+{
+titre: "Spectral and dynamical effects on the vibrational distribution of H2+	after molecular ionization by a single XUV-attosecond pulse",
+date: 2014,
+type: affiche,
+evenement: "Gordon Research Conference",
+ville: Massachusets,
+pays: États-Unis
+},
+{
+titre: "Dynamique multiélectronique en champ intense: Application à la spectroscopie pompe-sonde et à la tomographie orbitalaire",
+type: "orale",
+date: 2014,
+evenement: "Séminaire de doctorat du département de chimie de l’Université Laval",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Dynamique multiélectronique en champ intense: Application à la spectroscopie pompe-sonde et à la tomographie orbitalaire",
+type: orale,
+date:	2014,
+evenement: "Journées Scientifiques de l'ÉDOM, Institut d'Optique Graduate School",
+ville: Palaisseau,
+pays: France
+},
+{
+titre: "Molecular Ionization by an Intense Attosecond XUV Pulse: Is a Franck-Condon Approximation Acceptable?",
+date: "2013",
+type: "affiche",
+evenement: "Symposium on Chemical Physics",
+ville: Waterloo,
+pays: Canada
+},
+{
+titre: "Molecular Ionization by an Intense Attosecond XUV Pulse: Is a Franck-Condon Approximation Acceptable?",
+type: "affiche",
+date: 2013,
+evenement: "Canadian Chemistry Conference and Exhibition of the Canadian Society for Chemistry",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Molecular Ionization by an Intense Attosecond XUV Pulse: Is a Franck-Condon Approximation Acceptable?",
+type: "orale et affiche",
+date: 2012,
+evenement: "Gordon Research Conference et Gordon Research Seminar",
+ville: Massachusets,
+pays: États-Unis
+},
+{
+titre: "Feshbach-Adams Partitions for Multi-electron dynamics in Intense Laser Field",
+type: affiche,
+date: 2012,
+evenement: "PhD Summer School of the ITN-CORINF",
+ville: Dresden,
+pays: Allemage
+},
+{
+titre: "Molecular Ionization by an Intense Attosecond XUV Pulse: Is a Franck-Condon Approximation Acceptable?",
+date: 2010,
+type: affiche,
+evenement: "International Symposium on Chirped Pulse Amplification",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Quantum Dynamics of Many-Electron Systems in Intense Laser Fields: A Multi-Scale Approach",
+type: "orale",
+date: 2010,
+evenement: "Symposium on Chemical Physics",
+ville: Waterloo,
+pays: Canada
+},
+{
+titre: "Dynamique quantique des électrons en champ intense",
+date: 2010,
+type: "orale",
+evenement: "Séminaire de maîtrise du département de chimie de l’Université Laval",
+ville: Québec,
+pays: Canada
+},
+{
+titre: "Electronic and Nuclear Wavepacket Simulations of Dissociative Ionizations of H2 under Two-colours XUV-IR Pulsed Excitations",
+date: 2009,
+type: affiche,
+evenement: "Quantum Dynamic Imaging - Workshop",
+ville: Montréal,
+pays: Canada
+}
+]
+publicationScience: [
+{auteurs: [{nom: "Thanh-Tung Nguyen-Dang"}, {nom: "Étienne Couture-Bienvenue"}, {nom: "Jérémy Viau Trudel"}, {nom: "Amaury Sainjon"}],
+titre:  "Time-dependent quantum chemistry of laser driven many-electron molecules",
+journalAbbrev: JCP,
+journalLong: "The Journal of Chemical Physics",
+vol: 141,
+page: 244116,
+annee: 2014
+},{
+auteurs: [{nom: "Thanh-Tung Nguyen-Dang"}, {nom: "Jérémy Viau Trudel"}],
+titre:  "Multicomponent dynamics of coupled quantum subspaces and field induced molecular ionization",
+journalAbbrev: JCP,
+journalLong: "The Journal of Chemical Physics",
+  vol: 139,
+  page: 244102,
+  annee: 2013
+}]
+
+memoireMaitrise: {
+  titre: "Dynamique multi-électronique de H2 en champ laser
+intense et attoseconde",
+  auteur: "Jérémy Viau-Trudel",
+  universite: "Université Laval",
+  ville: Québec,
+  pays: Canada,
+  annee: 2012,
+  directeur: "Thanh-Tung Nguyen-Dang",
+  url: "www.theses.ulaval.ca/2012/28960/28960.pdf"
+  }
+---
+web:
+  -
+    organisation: "Exportech Québec"
+    descriptionCourte: "Entreprise d'entrainement et d'employabilité"
+    debut: "février 2015"
+    posteGenerique: "stagiaire"
+    poste: "développeur web et conseiller TI openSource"
+    ville: Québec
+    periode: "février/mars 2016"
+    debut: "1 février 2016"
+    fin: "15 mars 2016"
+    durée: "1 mois et demi"
+    encours: false
+  -
+    organisation: "3C Web"
+    descriptionCourte: "Conseil, création et conception web"
+    posteGererique: "partenaire d'affaire"
+    poste: "Développeur web et conseiller TI"
+    debut: "février 2016"
+    encours: true
+chimie:
+  -
+    equipe: "groupe de chimie théorique du prof Thanh-Tung Nguyen-Dang"
+    organisation: "Université Laval"
+    debut: "mai 2008"
+    fin: "septembre 2008"
+    periode: 2008
+    poste: "Stagiaire "
+    ville: Québec
+    encours: false
+  -
+    organisation: "Anapharm, ivision Analytique"
+    periode: 2007
+    poste: "Technicien de laboratoire"
+    ville: Québec
+  -
+    equipe: "laboratoire de radioécologie du prof Claude Barbeau"
+    organisation: "Université Laval"
+    periode: 2005-2007
+    poste: "Auxiliaire de recherche"
+    ville: Québec
+afficheJobines: non
+jobines:
+  -
+    organisation: "Pneu Ratté"
+    periode: 2004
+    poste: "Préposé au service"
+    ville: Québec
+experiencesFormaiton: [
+{
+titre: "Coordonateur projet robotique First Lego League",
+période:	"depuis octobre 2015",
+organisations: ["Fusion Jeunesse, école secondaire Roger-Comtois"],
+ville: Québec
+},
+{
+  titre: "animateur ateliers d'initiation à la science informatique",
+  organisations: ["Framboise & Marguerite", "École primaire Marguerite-Bourgeois"],
+  période: "automne 2015",
+  ville: Québec
+  },
+{
+titre: "Papa accompagnateur",
+periode: "depuis automne 2014",
+organisation: "Troupe-École V’là l’Bon Vent",
+ville: Québec
+},
+{
+titre: "Assistant d’enseignement, cours de thermodynamique",
+date: "2010 et 2011",
+organisation: "université Laval",
+ville: Québec
+},
+
+{titre: "Assistant d’enseignement, ateliers de chimie computationnelle",
+date: 	"automne 2009 à 2014",
+organisation: "Université Laval",
+ville: Québec
+}
+
+]
+experiencesAnimation: [
+{
+titre: "Coordonateur projet robotique First Lego League",
+période:	"depuis octobre 2015",
+organisations: ["Fusion Jeunesse, école secondaire Roger-Comtois"],
+ville: Québec
+},
+{
+  titre: "animateur ateliers d'initiation à la science informatique",
+  organisations: ["Framboise & Marguerite", "École primaire Marguerite-Bourgeois"],
+  période: "automne 2015",
+  ville: Québec
+  },
+{
+titre: "Papa accompagnateur",
+periode: "depuis automne 2014",
+organisation: "Troupe-École V’là l’Bon Vent",
+ville: Québec
+},
+{
+titre: "Assistant d’enseignement, cours de thermodynamique",
+periodes: ["automne 2010", "automne 2011"],
+organisation: "université Laval",
+ville: Québec
+},
+
+{titre: "Assistant d’enseignement, ateliers de chimie computationnelle",
+période: 	"automne 2009 à 2014",
+organisation: "Université Laval",
+ville: Québec
+}
+
+]
+gestion: [
+{
+titre: "Président du conseil d’administration",
+debut:	2008,
+fin: 2009,
+periode: 2009,
+organisation: "Coopérative d’habitation Vivre en Ville",
+ville: "Québec",
+},{
+titre: "V-P aux communications",
+organisation: "Regroupement des Étudians en chimie de l’université Laval",
+ville: Québec,
+debut: 2006,
+fin: 2007,
+periode: 2007
+},{
+titre: "Rédacteur en chef",
+periode: 2001,
+organisation: "journal étudiant du Cégep de Matane",
+ville: Matane,
+},{
+titre: "Représentant étudiant au conseil d’administration",
+debut:	2001,
+organisation: "Cégep de Matane",
+ville: Matane,
+periode: 2001
+},{
+titre: "V-P aux affaires externes",
+periode:	2000,
+organisation: "Association étudiante du Cégep de Maisonneuve",
+ville: Montréal,
+}
+]

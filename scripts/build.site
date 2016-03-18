@@ -21,7 +21,7 @@ for unit in ${units[@]}; do
   echo $unit
   mustache $data/$unit.yml $templates/$unit.mustache > $work/$unit.md
   cat $work/$unit.md >> $tmp
-  cat $work/$unit.yml>> $tmp2
+  cat $data/$unit.yml>> $tmp2
 done
 
 # Assemblage final
