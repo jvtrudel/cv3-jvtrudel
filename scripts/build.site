@@ -14,6 +14,8 @@ tmp=$output/md
 tmp2=$output/yml
 rm -r $output
 mkdir $output
+mkdir $output/css
+cp $css $output/css/.
 
 echo "" > $tmp
 echo "" > $tmp2
