@@ -272,7 +272,7 @@ chimie:
     periode: 2005-2007
     poste: "Auxiliaire de recherche"
     ville: Québec
-afficheJobines: non
+afficheJobines: false
 jobines:
   -
     organisation: "Pneu Ratté"
