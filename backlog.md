@@ -1,0 +1,1 @@
+  - Correction orthographique des fichiers yaml ou autre structure de contenu fragmenté.
