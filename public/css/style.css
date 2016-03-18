@@ -8,26 +8,32 @@ html {
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 html {
-    max-width: 80%;
+  max-width: 80%;
   min-width: 80%;
-}
+   }
 }
 
 
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+html {
    min-width: 80%;
    max-width: 80%;
+ }
 }
 
 /* Desktops and laptops ----------- */
 @media only screen  and (min-width : 1224px) {
+html {
    min-width: 800px;
    max-width: 800px;
+ }
 }
 
 /* Large screens ----------- */
 @media only screen  and (min-width : 1824px) {
+html {
    min-width: 1000px;
    max-width: 1000px;
+ }
 }
