@@ -2,6 +2,11 @@ html {
   font-family: "Helvetica", sans-serif;
   margin: auto;
   text-align: justify;
+  font-size: 3vh;
+}
+
+h1 {
+  font-size: 5vh;
 }
 
 
@@ -25,8 +30,8 @@ html {
 /* Desktops and laptops ----------- */
 @media only screen  and (min-width : 1224px) {
 html {
-   min-width: 50px;
-   max-width: 50px;
+   min-width: 800px;
+   max-width: 800px;
  }
 }
 
