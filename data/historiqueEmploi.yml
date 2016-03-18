@@ -15,7 +15,7 @@ web:
   -
     organisation: "3C Web"
     descriptionCourte: "Conseil, création et conception web"
-    posteGererique: "partenaire d'affaire"
+    posteGenerique: "partenaire"
     poste: "Développeur web et conseiller TI"
     debut: "février 2016"
     encours: true

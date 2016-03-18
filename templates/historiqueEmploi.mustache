@@ -1,16 +1,19 @@
 ## Historique d'emploi
 
 {{#web}}
+
 ### {{& poste}}
   - type d'emploi:{{& posteGenerique}}
   - Courte description: {{& descriptionCourte}}
   - Employeur: {{& organisation}}
   - Ville: {{& encours}}
   - Période: {{& periode}}
+
 {{/web}}
 
 
 {{#chimie}}
+
 ### {{poste}}
 {{#equipe.length}}  - equipe: {{equipe}} {{/equipe.length}}
   - periode: {{periode}}
@@ -20,6 +23,7 @@
 {{/chimie}}
 
 {{#afficheJobines}}
+
 ### Autres emplois
 {{#jobines}}
   - poste: {{poste}}

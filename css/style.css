@@ -1,4 +1,5 @@
 html {
+  font-family: "Helvetica", sans-serif;
   max-width: 95%;
   min-width: 95%;
   margin: auto;
@@ -6,6 +7,6 @@ html {
 }
 
 @media screen and (min-width: 600px) {
-  max-width: 650px;
-  min-width: 650px;
+  max-width: 350px;
+  min-width: 350px;
 }
