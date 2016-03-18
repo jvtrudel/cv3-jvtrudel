@@ -1,12 +1,31 @@
 html {
   font-family: "Helvetica", sans-serif;
-  max-width: 95%;
-  min-width: 95%;
   margin: auto;
   text-align: justify;
 }
 
-@media screen and (min-width: 600px) {
-  max-width: 350px;
-  min-width: 350px;
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  max-width: 90%;
+  min-width: 90%;
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+   min-width: 80%;
+   max-width: 80%;
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+   min-width: 1000px;
+   max-width: 1000px;
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+   min-width: 1000px;
+   max-width: 1000px;
 }
