@@ -27,8 +27,8 @@ a {
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 html {
-  max-width: 95%;
-  min-width: 95%;
+  max-width: 95vh;
+  min-width: 95vh;
    }
 }
 
@@ -36,8 +36,8 @@ html {
 /* iPads (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
 html {
-   min-width: 80%;
-   max-width: 80%;
+   min-width: 80vh;
+   max-width: 80vh;
  }
 }
 
