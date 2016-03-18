@@ -1,6 +1,11 @@
 html {
-  max-width: 50%;
-  min-width: 50%;
+  max-width: 95%;
+  min-width: 95%;
   margin: auto;
   text-align: justify;
+}
+
+@media screen and (min-width: 600px) {
+  max-width: 650px;
+  min-width: 650px;
 }
