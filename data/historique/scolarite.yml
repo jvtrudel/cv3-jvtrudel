@@ -1,0 +1,151 @@
+---
+scolarite:
+# En cours
+  -
+    organisation:
+      universite: "Université Laval"
+      departement: "Département de chimie"
+      coordonnees:
+        pays: Canada
+        ville: Québec
+    programme:
+      diplome: "Doctorat en chimie"
+      grade: doctorat
+      spécialite: "Dynamique moléculaire en champ intense, chimie computationelle, interaction laser-intense/molécules"
+      these:
+        titre: "Dynamique moléculaire et Interaction laser-matière"
+    formateur:
+      status: "Directeur de thèse"
+      nom: "Thanh-Tung Nguyen-Dang"
+    historique:
+      debut: "hiver 2012"
+    status:
+      encours: "rédaction"
+
+  -
+    organisation:
+      universite: "Université Paris-Sud"
+      laboratoire: "Institut des science molculaires d'Orsay"
+      équipe: "Rayonnement, Atomes, Molécules (DIRAM)"
+      coordonnees:
+        pays: France
+        ville: Orsay
+    programme:
+      diplome: "Doctorat en physique"
+      grade: doctorat
+      spécialite: "Dynamique moléculaire en champ intense, chimie computationelle, interaction laser-intense/molécules"
+      examen:
+        these: "Dynamique moléculaire et Interaction laser-matière"
+    formateur:
+      status: "Directeur de thèse"
+      nom: "Osman Atabek"
+    historique:
+      debut: "automne 2012"
+    status:
+      encours: "rédaction"
+
+  -
+    organisation:
+      universite: "Université Téluq"
+      coordonnees:
+        pays: Canada
+        ville: Québec
+    programme:
+      grade: baccalauréat
+      diplome: "Certificat en informatique appliquée"
+    historique:
+      debut: "janvier 2016"
+      grade: baccalauréat
+      status:
+        encours: "formation continue"
+
+
+# Diplômes obtenus
+  -
+    organisation:
+      universite: "Université Laval"
+    programme:
+      grade: maitrise
+      diplome: "Maitrise en chimie"
+      specialite: "Dynamique moléculaire, interaction laser-intense/molécule, chimie computationnelle, dynamique quantique"
+      examen:
+        memoire: "Dynamique multi-électronique de H2 en champ laser intense et attoseconde"
+    historique:
+      début: "été 2009"
+      fin: "hiver 2012"
+    status:
+      termine: diplômé
+
+    formateur:
+      status: "Directeur de maitrise"
+      nom: "Thanh-Tung Nguyen-Dang"
+
+  -
+    organisation:
+      universite: "Université Laval"
+    programme:
+      grade: baccalauréat
+      diplome: "Baccalauréat en chimie"
+    historique:
+      début: "automne 2005"
+      fin: "hiver 2009"
+    status:
+      termine: diplômé
+
+  -
+    organisation:
+      cegep: "Cégep Limoilou"
+    programme:
+      grade: "DEC"
+      diplome: "Diplome d'étude collégial en sciences de la nature"
+    historique:
+      début: "automne 2004"
+      fin: "hiver 2005"
+    status:
+      termine: "diplômé"
+  -
+    organisation:
+      cegep: "Cégep de Matane"
+    programme:
+      grade: "DEC"
+      diplome: "Diplome d'étude collégial en sciences de la nature"
+#    historique:
+    status:
+      termine: interrompu
+  -
+    organisation:
+      cegep: "Collège de Maisonneuve"
+    programme:
+      grade: "DEC"
+      diplome: "Double diplôme d'étude collégial en sciences de la nature et en sciences humaines"
+#    historique:
+    status:
+      termine: interrompu
+  -
+    organisation:
+      cfp: "Centre de formation professionnel l'Horizon"
+    programme:
+      grade: DEP
+      diplome: "Diplôme d'étude professionnel en horticulture et jardinerie"
+#    historique:
+    status:
+      termine: interrompu
+  -
+    organisation:
+      cfp: " Centre de formation le Chantier"
+    programme:
+      grade: DEP
+      diplome: "Diplôme d'étude professionnelle en découpe et transformation du verre"
+#    historique:
+    status:
+      termine: diplômé
+  -
+    organisation:
+      polyvalente: "Polyvalente des Monts"
+      ville: "Ste-Agathe des Monts"
+    programme:
+      grade: secondaire
+      diplome: "diplôme d'étude secondaire"
+  #  historique:
+    status:
+      termine: diplômé

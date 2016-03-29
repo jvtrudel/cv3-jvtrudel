@@ -1,9 +1,23 @@
 ---
-  description:
-    contenu: "Ce cv 3.0 contient les informations nécessaires pour me contacter ainsi qu'une liste d'informations que l'on retrouve typiquement dans un cv."
-    prototypeAPI: "Il s'agit d'un prototype de données libres accessibles via une API. Pour l'instant les informations sont accessibles aux formats structuré yml ou semi-structuré markdown (avec un bug dans l'encodage...) via les url suivantes:"
-    url_yml: "cv30.jvtrudel.com/yml"
-    url_md: "cv30.jvtrudel.com/md"
-    avancement: "La structure des données est plutôt bancale pour l'instant puisque je cherche à construire une ontologie et que j'utilise mes données pour faire des explorations ontologiques. Plusieurs autres fonctionnalités seront développés ultérieurement."
-    ressources: "Pour plus de détails sur le code source et sur la direction du projet: [cv30-jvtrudel](http://github.com/jvtrudel/cv30-jvtrudel)"
-    issues: "Pour signaler un problème, faire une suggestion ou demander une amélioration, utiliser le système *Issues* sur github."
+profil:
+  -
+    force: curieux
+    description: >
+         Scientifique professionnel, je m'intéresse à la résolution de problèmes
+         difficiles et compliqués. Mes intérêts et activités vont bien au-delà
+         de ma spécialité académique en *dynamique multi-électronique et
+         interaction laser-intense/molécules*.
+  -
+    force: "très productif"
+    description: >
+         Mes multiples intérêts et mon ambition m'ont poussé à développer
+         une expertise en productivité technologique, gestion de projets et
+         en leadership de projet. collaboratifs.
+
+  -
+    force: "efficace en équipe"
+    description: >
+         Ma capacité à vulgariser des notions complexes, à gérer des relations
+         interpersonnelles et ma capacité à identifier rapidement les forces
+         de chacun me permettent d'intégrer facilement des milieux de travail
+         variées.

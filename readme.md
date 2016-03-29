@@ -1,11 +1,21 @@
-# version beta/test du [cv3.0 présenté à la qc.jido2016](https://github.com/Exportech/jido)
+# cv30 de jvtrudel
 
-# Licences
+CV web multi-contextuel et API. [cv30.jvtrudel.com](http://cv30.jvtrudel.com)
 
-## Données de travail
+# Technologie
+
+  - [cv30](https://github.com/datalyse), une technologie [DLDS](https://github.com/datalyse/DLDS) par [Datalyse](https://github.com/datalyse)
+  - Utilise également:
+    - [Datawiz](https://github.com/datalyse/datawiz) pour la transformation des données structurées en pages web.
+    - [NaturalSchema](https://github.com/datalyse/naturalSchema) pour la sémantisation des données.
+    - [Mustache](https://github.com/mustache/mustache)
+    - [Pandoc](https://github.com/jgm/pandoc)
+    - YAML et markdown
+    - shell scripts
+    - HTML5 et CSS3
+    - serveur ubuntu et apache2
+    - GIT
+
+# Licence
 
 [jvtrudel](http://www.cv.jvtrudel.com) Tout droits réservés
-
-## Technologie
-
-[LiLiQ-R](https://opensource.org/licenses/LiLiQ-R-1.1)
