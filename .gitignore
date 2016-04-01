@@ -1,2 +1,6 @@
-tests/work/*.md
 .DS_Store
+datawiz
+cv30
+matines
+*.wiz
+public

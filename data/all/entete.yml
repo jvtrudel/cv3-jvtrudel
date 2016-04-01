@@ -1,0 +1,29 @@
+---
+renseignement:
+  prenom: Jérémy
+  nomDeFamille: "Viau-Trudel"
+  pseudo: jvtrudel
+  telephone: "418-998-9850"
+  adresse: "618 rue Père-Grenier"
+  codePostal: "G1N 1V2"
+  ville: Québec
+  province: Québec
+  courriel: jvtrudel@gmx.com
+  
+---
+bouttons:
+  -
+    description: "API cv30"
+    url: "cv30.jvtrudel.com/api"
+  -
+    description: profil
+    url: "cv30.jvtrudel.com/profil"
+  -
+    description: projets
+    url: "cv30.jvtrudel.com/projets"
+  -
+    description: compétences
+    url: "cv30.jvtrudel.com/competences"
+  -
+    description: historiques
+    url: "cv30.jvtrudel.com/historiques"

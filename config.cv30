@@ -1,0 +1,8 @@
+pages=('profil') # 'api' 'projets' 'competences' 'historique')
+index='profil'
+data_Framework="datawiz"
+frontend_Framework="matines"
+dependances=(
+'https://github.com/datalyse/datawiz.git'
+'https://github.com/datalyse/matines.git'
+ )

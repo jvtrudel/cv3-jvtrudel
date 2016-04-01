@@ -1,0 +1,2 @@
+#! /bin/sh
+./cv30/scripts/build.site
