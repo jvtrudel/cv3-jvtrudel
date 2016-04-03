@@ -1,1 +1,2 @@
 git clone https://github.com/datalyse/cv30.git
+chmod +x cv30/scripts/*
