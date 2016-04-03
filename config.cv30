@@ -6,3 +6,4 @@ dependances=(
 'https://github.com/datalyse/datawiz.git'
 'https://github.com/datalyse/matines.git'
  )
+ cv30_source='https://github.com/datalyse/cv30.git'
