@@ -1,5 +1,5 @@
 ---
-profil:
+profil: &id01
   -
     force: curieux
     description: >
@@ -21,3 +21,13 @@ profil:
          interpersonnelles et ma capacité à identifier rapidement les forces
          de chacun me permettent d'intégrer facilement des milieux de travail
          variées.
+---
+profil: &id02
+  description: |
+     Pendant 7 ans, j’ai participé à la recherche de haut niveau en interaction laser-intense/molécules et j’ai géré des projets de développement informatique en calcul Haute-Performance. J’ai de fortes compétences en veille technologique, communication scientifique et en relations humaines.  Que ce soit dans le cadre de mon travail, dans mes implications sociales ou en poursuivant des projets personnels, je prends part depuis de nombreuses années à la transmission du savoir et au transfert de compétences pratiques auprès d’un public de tous âge.
+---
+profil: &id03
+  description: |
+    Depuis 7ans, j'ai contribué à la recherche internationnal de haut niveau en science moléculaire et physique moderne. Mes nombreux séjour à l'étranger lors de conférences ou pour y mener des recherches m'ont permis d'acquérir une excellente perspective sur la pratique de la recherche de pointe et sur la culture du milieu universitaire. J'ai également participer au développement de technologie logiciel innovatrice dans un contexte international, collaboratif et multidisciplinaire.
+
+    J'ai récemment entrepris de transférer mes compétences en veille scientifique, communication et vulgarisation scientifique. J'ai exploré le milieu 
